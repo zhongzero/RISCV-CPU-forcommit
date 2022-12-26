@@ -133,8 +133,8 @@ always @(*) begin
 
 	SLB_to_RS_needchange=0;
 	
-	b4=0;//for_latch
-	r3=0;//for_latch
+	// b4=0;//for_latch
+	// r3=0;//for_latch
 	SLB_to_memctrl_ordertype=0;//for_latch
 	SLB_to_memctrl_vj=0;//for_latch
 	SLB_to_memctrl_vk=0;//for_latch
