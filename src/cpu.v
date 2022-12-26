@@ -23,14 +23,14 @@
 
 
  `include "info.v"
- `include "unit/BHT.v"
- `include "unit/ICache.v"
- `include "unit/Ins_Queue.v"
- `include "unit/MemCtrl.v"
- `include "unit/Reg.v"
- `include "unit/ROB.v"
- `include "unit/RS.v"
- `include "unit/SLB.v"
+//  `include "unit/BHT.v"
+//  `include "unit/ICache.v"
+//  `include "unit/Ins_Queue.v"
+//  `include "unit/MemCtrl.v"
+//  `include "unit/Reg.v"
+//  `include "unit/ROB.v"
+//  `include "unit/RS.v"
+//  `include "unit/SLB.v"
 
 
 module cpu(
